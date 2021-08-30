@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### I'm Mohammad Iskandarani, a CS student at GUST.
+
+Feel free to take a look at some of my projects.
+
+- 🌱 I’m currently learning **GraphQL**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdIsk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **M7mdisk/M7mdisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
