@@ -4,7 +4,7 @@
 
 Feel free to take a look at some of my projects.
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **Vue.js**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdIsk&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
